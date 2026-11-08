@@ -9,3 +9,15 @@ Our technology development arm designs, builds, and maintains software, platform
 This organization serves as the home for our public repositories, open-source projects, developer resources, and selected contributions to the broader technology community.
 
 [Website](https://vivabrands.cc)
+
+<br>
+
+**Coming Soon:**
+
+**[VivaMail](https://vivamail.cc)**
+
+Private, secure email has never looked this good — or been this easy.
+
+**[KubicTV](https://kubic.tv)**
+
+The privacy-centric streaming box. Stream media you already own and watch IPTV for free. No ads. No spying. Ever.
